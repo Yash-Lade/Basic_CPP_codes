@@ -4,7 +4,8 @@ using namespace std;
 int main()
 {
 	int a,b;
-	
+
+	cout<<"@Author - Yash Lade !!\n";
 	cout<<"Enter first number :";
 	cin>>a;
 	
