@@ -6,8 +6,7 @@ int main()
 	int vowel=0,cons=0,nums=0,space=0;
 	string line;
 	
-	cout<<"Student Name - Yash Lade \n";
-	cout<<"Enroll no. - 0832CS221229 \n";
+	cout<<"@Author - Yash Lade \n";
 	
 	cout<<"\nEnter any string/name :";
 	getline(cin,line);
