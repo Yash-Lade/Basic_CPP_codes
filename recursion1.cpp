@@ -15,7 +15,10 @@ int recur(int a)
 int main()
 {
 	int no;
-	cout<<"Enter the number :";cin>>no;
+	cout<<"@Author - Yash Lade /n/n";
+	
+	cout<<"Enter the number :";
+	cin>>no;
 	
 	recur(no);
 }
