@@ -1,4 +1,4 @@
-# Basic_CPP_codes
+# Basic C++ Programs
 
 A collection of beginner-friendly C++ programs solving basic programming problems, primarily inspired by [GeeksforGeeks](https://www.geeksforgeeks.org/). Great for learning syntax, logic, and foundational C++ concepts.
 
